@@ -1,0 +1,2014 @@
+{
+  "sourceLanguage" : "es",
+  "strings" : {
+    "¿Fuiste al gimnasio?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Did you gym today?"
+          }
+        }
+      }
+    },
+    "¿Qué ha pasado hoy? ¿Cómo te has sentido y por qué?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What happened today? How did you feel? Why?"
+          }
+        }
+      }
+    },
+    "¿Qué hiciste?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What have you done?"
+          }
+        }
+      }
+    },
+    "%@ %lld" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$lld"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "%lld días" : {
+
+    },
+    "%lld total" : {
+
+    },
+    "✓ OK" : {
+
+    },
+    "Activa o desactiva los hábitos que quieres seguir" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable or disable habits you want to track"
+          }
+        }
+      }
+    },
+    "Actividades del día" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daily Activities"
+          }
+        }
+      }
+    },
+    "Alcohol" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alcohol"
+          }
+        }
+      }
+    },
+    "Añadir" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add"
+          }
+        }
+      }
+    },
+    "Añadir actividad" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add activity"
+          }
+        }
+      }
+    },
+    "Análisis" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analysis"
+          }
+        }
+      }
+    },
+    "Ánimo" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mood"
+          }
+        }
+      }
+    },
+    "appointments.appointmentTitle" : {
+      "comment" : "Title",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Título"
+          }
+        }
+      }
+    },
+    "appointments.completed" : {
+      "comment" : "Completed",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ya fue"
+          }
+        }
+      }
+    },
+    "appointments.create" : {
+      "comment" : "Create appointment",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Crear cita"
+          }
+        }
+      }
+    },
+    "appointments.date" : {
+      "comment" : "Date and time",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Fecha y hora"
+          }
+        }
+      }
+    },
+    "appointments.dontKnow" : {
+      "comment" : "Don't know yet",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Aún no lo sé"
+          }
+        }
+      }
+    },
+    "appointments.empty" : {
+      "comment" : "No appointments",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No tienes citas"
+          }
+        }
+      }
+    },
+    "appointments.empty.description" : {
+      "comment" : "Empty description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Toca + para añadir tu primera cita recurrente"
+          }
+        }
+      }
+    },
+    "appointments.new" : {
+      "comment" : "New appointment",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Nueva cita"
+          }
+        }
+      }
+    },
+    "appointments.nextQuestion" : {
+      "comment" : "Next appointment question",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "¿Cuándo es la próxima cita de %@?"
+          }
+        }
+      }
+    },
+    "appointments.noDate" : {
+      "comment" : "No date",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sin fecha programada"
+          }
+        }
+      }
+    },
+    "appointments.notes" : {
+      "comment" : "Notes",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Notas"
+          }
+        }
+      }
+    },
+    "appointments.permission.1day" : {
+      "comment" : "1 day before",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "1 día antes"
+          }
+        }
+      }
+    },
+    "appointments.permission.1hour" : {
+      "comment" : "1 hour before",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "1 hora antes"
+          }
+        }
+      }
+    },
+    "appointments.permission.after" : {
+      "comment" : "2 hours after",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2 horas después (para agendar la siguiente)"
+          }
+        }
+      }
+    },
+    "appointments.permission.description" : {
+      "comment" : "Permission description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Para no olvidar tus citas, Bitácora puede agregarlas a tu Calendario con alertas automáticas."
+          }
+        }
+      }
+    },
+    "appointments.permission.grant" : {
+      "comment" : "Grant access",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Dar acceso al Calendario"
+          }
+        }
+      }
+    },
+    "appointments.permission.notificationsOnly" : {
+      "comment" : "Notifications only",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Solo notificaciones locales"
+          }
+        }
+      }
+    },
+    "appointments.permission.title" : {
+      "comment" : "Permission title",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recordatorios de citas"
+          }
+        }
+      }
+    },
+    "appointments.schedule" : {
+      "comment" : "Schedule",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Programar"
+          }
+        }
+      }
+    },
+    "appointments.scheduleNow" : {
+      "comment" : "Schedule now",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Programar ahora"
+          }
+        }
+      }
+    },
+    "appointments.title" : {
+      "comment" : "Appointments",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Citas"
+          }
+        }
+      }
+    },
+    "appointments.unscheduled" : {
+      "comment" : "Unscheduled",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sin fecha"
+          }
+        }
+      }
+    },
+    "appointments.upcoming" : {
+      "comment" : "Upcoming",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Próximas"
+          }
+        }
+      }
+    },
+    "Bitácora" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Journal"
+          }
+        }
+      }
+    },
+    "Calidad del sueño" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sleep quality"
+          }
+        }
+      }
+    },
+    "Cerrar" : {
+
+    },
+    "charts.analysis" : {
+      "comment" : "Analysis",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Análisis"
+          }
+        }
+      }
+    },
+    "charts.average" : {
+      "comment" : "Average",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Promedio"
+          }
+        }
+      }
+    },
+    "charts.habitStreaks" : {
+      "comment" : "Habit streaks",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Rachas de hábitos"
+          }
+        }
+      }
+    },
+    "charts.maximum" : {
+      "comment" : "Maximum",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Máximo"
+          }
+        }
+      }
+    },
+    "charts.minimum" : {
+      "comment" : "Minimum",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mínimo"
+          }
+        }
+      }
+    },
+    "charts.noData" : {
+      "comment" : "No data yet",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sin datos todavía"
+          }
+        }
+      }
+    },
+    "charts.noNotes" : {
+      "comment" : "No notes this week",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No hay notas esta semana"
+          }
+        }
+      }
+    },
+    "charts.startFilling" : {
+      "comment" : "Start filling",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Empieza a rellenar tu bitácora diaria"
+          }
+        }
+      }
+    },
+    "charts.statistics" : {
+      "comment" : "Statistics",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estadísticas"
+          }
+        }
+      }
+    },
+    "charts.weeklySummary" : {
+      "comment" : "Weekly summary",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Resumen semanal"
+          }
+        }
+      }
+    },
+    "common.add" : {
+      "comment" : "Add",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Añadir"
+          }
+        }
+      }
+    },
+    "common.cancel" : {
+      "comment" : "Cancel",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancelar"
+          }
+        }
+      }
+    },
+    "common.done" : {
+      "comment" : "Done",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Listo"
+          }
+        }
+      }
+    },
+    "common.export" : {
+      "comment" : "Export",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Exportar"
+          }
+        }
+      }
+    },
+    "common.remove" : {
+      "comment" : "Remove",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Eliminar"
+          }
+        }
+      }
+    },
+    "common.settings" : {
+      "comment" : "Settings",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Configuración"
+          }
+        }
+      }
+    },
+    "common.today" : {
+      "comment" : "Today",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hoy"
+          }
+        }
+      }
+    },
+    "Cómo te sientes" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How Do You Feel"
+          }
+        }
+      }
+    },
+    "Configuración" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "Elige qué secciones quieres ver abiertas por defecto" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose which sections to open by default"
+          }
+        }
+      }
+    },
+    "Eliminar" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove"
+          }
+        }
+      }
+    },
+    "Empieza a puntuar tu %@" : {
+
+    },
+    "Empieza a rellenar tu bitácora diaria" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start filling your daily journal"
+          }
+        }
+      }
+    },
+    "Energía" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Energy"
+          }
+        }
+      }
+    },
+    "Estadísticas" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistics"
+          }
+        }
+      }
+    },
+    "Exportar" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export"
+          }
+        }
+      }
+    },
+    "Fecha" : {
+
+    },
+    "Foco" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focus"
+          }
+        }
+      }
+    },
+    "Gimnasio" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gym"
+          }
+        }
+      }
+    },
+    "Gráficas" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Charts"
+          }
+        }
+      }
+    },
+    "gym.did" : {
+      "comment" : "Did you go to the gym?",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "¿Fuiste al gimnasio?"
+          }
+        }
+      }
+    },
+    "habit.alcohol" : {
+      "comment" : "Alcohol",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Alcohol"
+          }
+        }
+      }
+    },
+    "habit.floss" : {
+      "comment" : "Floss",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hilo dental"
+          }
+        }
+      }
+    },
+    "habit.meditation" : {
+      "comment" : "Meditation",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Meditación"
+          }
+        }
+      }
+    },
+    "habit.reading" : {
+      "comment" : "Reading",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lectura"
+          }
+        }
+      }
+    },
+    "habit.screens" : {
+      "comment" : "Screens before sleep",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pantallas antes de dormir"
+          }
+        }
+      }
+    },
+    "Hábitos" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Habits"
+          }
+        }
+      }
+    },
+    "Hábitos predeterminados" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Default Habits"
+          }
+        }
+      }
+    },
+    "Hilo dental" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dental floss"
+          }
+        }
+      }
+    },
+    "Hora" : {
+
+    },
+    "Hora de despertar" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wake time"
+          }
+        }
+      }
+    },
+    "Hora de la medicación" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medication time"
+          }
+        }
+      }
+    },
+    "Hoy" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today"
+          }
+        }
+      }
+    },
+    "Incluir campos de medicación" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Include medication fields"
+          }
+        }
+      }
+    },
+    "Ir a un día" : {
+
+    },
+    "Lectura" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reading"
+          }
+        }
+      }
+    },
+    "Listo" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "Máximo" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maximum"
+          }
+        }
+      }
+    },
+    "medication.include" : {
+      "comment" : "Include medication fields",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Incluir campos de medicación"
+          }
+        }
+      }
+    },
+    "medication.notes" : {
+      "comment" : "Medication notes",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Notas sobre la medicación"
+          }
+        }
+      }
+    },
+    "medication.show" : {
+      "comment" : "Show medication",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mostrar medicación"
+          }
+        }
+      }
+    },
+    "medication.time" : {
+      "comment" : "Medication time",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hora de la medicación"
+          }
+        }
+      }
+    },
+    "Meditación" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meditation"
+          }
+        }
+      }
+    },
+    "menu.options" : {
+      "comment" : "Menu options",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Opciones del menú"
+          }
+        }
+      }
+    },
+    "menu.options.description" : {
+      "comment" : "Menu options description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Elige qué opciones aparecen en el menú principal"
+          }
+        }
+      }
+    },
+    "menu.showAppointments" : {
+      "comment" : "Show appointments in menu",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mostrar Citas en el menú"
+          }
+        }
+      }
+    },
+    "menu.title" : {
+      "comment" : "Menu",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Menú"
+          }
+        }
+      }
+    },
+    "metric.energy" : {
+      "comment" : "Energy",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Energía"
+          }
+        }
+      }
+    },
+    "metric.focus" : {
+      "comment" : "Focus",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Foco"
+          }
+        }
+      }
+    },
+    "metric.mood" : {
+      "comment" : "Mood",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ánimo"
+          }
+        }
+      }
+    },
+    "metric.sleep" : {
+      "comment" : "Sleep",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sueño"
+          }
+        }
+      }
+    },
+    "Métrica" : {
+
+    },
+    "Mínimo" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimum"
+          }
+        }
+      }
+    },
+    "Mostrar medicación" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show medication"
+          }
+        }
+      }
+    },
+    "No hay notas esta semana" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No notes this week"
+          }
+        }
+      }
+    },
+    "Notas del día" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daily Notes"
+          }
+        }
+      }
+    },
+    "Notas sobre la medicación" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medication notes"
+          }
+        }
+      }
+    },
+    "notifications.description" : {
+      "comment" : "Notifications description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Configura los recordatorios para tus citas"
+          }
+        }
+      }
+    },
+    "notifications.disabled" : {
+      "comment" : "Notifications disabled",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Desactivadas"
+          }
+        }
+      }
+    },
+    "notifications.enabled" : {
+      "comment" : "Notifications enabled",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Activadas"
+          }
+        }
+      }
+    },
+    "notifications.openSettings" : {
+      "comment" : "Open Settings",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Abrir Configuración"
+          }
+        }
+      }
+    },
+    "notifications.status" : {
+      "comment" : "Notifications status",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estado de notificaciones"
+          }
+        }
+      }
+    },
+    "notifications.title" : {
+      "comment" : "Notifications",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Notificaciones"
+          }
+        }
+      }
+    },
+    "Oculta las secciones que no uses" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide sections you don't use"
+          }
+        }
+      }
+    },
+    "Pantallas antes de dormir" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Screens before bed"
+          }
+        }
+      }
+    },
+    "Período" : {
+
+    },
+    "Promedio" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Average"
+          }
+        }
+      }
+    },
+    "Rachas de hábitos" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Habit Streaks"
+          }
+        }
+      }
+    },
+    "rating.1" : {
+      "comment" : "Rating 1",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mal"
+          }
+        }
+      }
+    },
+    "rating.2" : {
+      "comment" : "Rating 2",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bueno"
+          }
+        }
+      }
+    },
+    "rating.3" : {
+      "comment" : "Rating 3",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Normal"
+          }
+        }
+      }
+    },
+    "rating.4" : {
+      "comment" : "Rating 4",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bien"
+          }
+        }
+      }
+    },
+    "rating.5" : {
+      "comment" : "Rating 5",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Muy bien"
+          }
+        }
+      }
+    },
+    "rating.high" : {
+      "comment" : "High rating",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bien"
+          }
+        }
+      }
+    },
+    "rating.low" : {
+      "comment" : "Low rating",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mal"
+          }
+        }
+      }
+    },
+    "Restablecer preferencias" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset Preferences"
+          }
+        }
+      }
+    },
+    "Resumen" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Summary"
+          }
+        }
+      }
+    },
+    "Resumen semanal" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weekly Summary"
+          }
+        }
+      }
+    },
+    "Secciones expandidas" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expanded Sections"
+          }
+        }
+      }
+    },
+    "Secciones visibles" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visible Sections"
+          }
+        }
+      }
+    },
+    "section.activities" : {
+      "comment" : "Daily activities section",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Actividades del día"
+          }
+        }
+      }
+    },
+    "section.feelings" : {
+      "comment" : "Feelings section",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cómo te sientes"
+          }
+        }
+      }
+    },
+    "section.gym" : {
+      "comment" : "Gym section",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Gimnasio"
+          }
+        }
+      }
+    },
+    "section.habits" : {
+      "comment" : "Habits section",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hábitos"
+          }
+        }
+      }
+    },
+    "section.notes" : {
+      "comment" : "Daily notes section",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Notas del día"
+          }
+        }
+      }
+    },
+    "section.sleep" : {
+      "comment" : "Sleep and medication section",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sueño y medicación"
+          }
+        }
+      }
+    },
+    "settings.addCustomHabit" : {
+      "comment" : "Add custom habit",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Añadir hábito personalizado"
+          }
+        }
+      }
+    },
+    "settings.advanced" : {
+      "comment" : "Advanced options",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Opciones avanzadas"
+          }
+        }
+      }
+    },
+    "settings.chooseDefaultExpanded" : {
+      "comment" : "Choose default expanded",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Elige qué secciones quieres ver abiertas por defecto"
+          }
+        }
+      }
+    },
+    "settings.customHabits" : {
+      "comment" : "Custom habits",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hábitos personalizados"
+          }
+        }
+      }
+    },
+    "settings.customHabits.description" : {
+      "comment" : "Custom habits description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Añade tus propios hábitos para hacer seguimiento"
+          }
+        }
+      }
+    },
+    "settings.defaultHabits" : {
+      "comment" : "Default habits",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hábitos predeterminados"
+          }
+        }
+      }
+    },
+    "settings.enableDisableHabits" : {
+      "comment" : "Enable or disable habits",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Activa o desactiva los hábitos que quieres seguir"
+          }
+        }
+      }
+    },
+    "settings.expandedSections" : {
+      "comment" : "Expanded sections",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Secciones expandidas"
+          }
+        }
+      }
+    },
+    "settings.habitIcon" : {
+      "comment" : "Icon",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Icono"
+          }
+        }
+      }
+    },
+    "settings.habitName" : {
+      "comment" : "Habit name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Nombre del hábito"
+          }
+        }
+      }
+    },
+    "settings.habitName.placeholder" : {
+      "comment" : "Habit name placeholder",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ejemplo: Tomar vitaminas"
+          }
+        }
+      }
+    },
+    "settings.hideSections" : {
+      "comment" : "Hide sections",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Oculta las secciones que no uses"
+          }
+        }
+      }
+    },
+    "settings.medication" : {
+      "comment" : "Medication",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Medicación"
+          }
+        }
+      }
+    },
+    "settings.newHabit" : {
+      "comment" : "New habit",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Nuevo hábito"
+          }
+        }
+      }
+    },
+    "settings.preset.complete" : {
+      "comment" : "Complete preset",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Completa"
+          }
+        }
+      }
+    },
+    "settings.preset.complete.description" : {
+      "comment" : "Complete description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Todo visible y abierto"
+          }
+        }
+      }
+    },
+    "settings.preset.minimalist" : {
+      "comment" : "Minimalist preset",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Minimalista"
+          }
+        }
+      }
+    },
+    "settings.preset.minimalist.description" : {
+      "comment" : "Minimalist description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Solo lo esencial: sueño y ánimo"
+          }
+        }
+      }
+    },
+    "settings.preset.noMedication" : {
+      "comment" : "No medication preset",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sin medicación"
+          }
+        }
+      }
+    },
+    "settings.preset.noMedication.description" : {
+      "comment" : "No medication description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enfoque en hábitos generales"
+          }
+        }
+      }
+    },
+    "settings.presets" : {
+      "comment" : "Quick presets",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Configuraciones rápidas"
+          }
+        }
+      }
+    },
+    "settings.presets.description" : {
+      "comment" : "Presets description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Aplica una configuración predefinida con un toque"
+          }
+        }
+      }
+    },
+    "settings.resetPreferences" : {
+      "comment" : "Reset preferences",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Restablecer preferencias"
+          }
+        }
+      }
+    },
+    "settings.saveHabit" : {
+      "comment" : "Save habit",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Guardar hábito"
+          }
+        }
+      }
+    },
+    "settings.sections" : {
+      "comment" : "Sections",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Secciones"
+          }
+        }
+      }
+    },
+    "settings.sections.description" : {
+      "comment" : "Sections description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Oculta, cierra o abre cada sección por defecto"
+          }
+        }
+      }
+    },
+    "settings.state.collapsed" : {
+      "comment" : "Collapsed state",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cerrada"
+          }
+        }
+      }
+    },
+    "settings.state.expanded" : {
+      "comment" : "Expanded state",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Abierta"
+          }
+        }
+      }
+    },
+    "settings.state.hidden" : {
+      "comment" : "Hidden state",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Oculta"
+          }
+        }
+      }
+    },
+    "settings.version" : {
+      "comment" : "Version",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Versión 1.0.0"
+          }
+        }
+      }
+    },
+    "settings.visibleSections" : {
+      "comment" : "Visible sections",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Secciones visibles"
+          }
+        }
+      }
+    },
+    "Sin datos" : {
+
+    },
+    "Sin datos todavía" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No data yet"
+          }
+        }
+      }
+    },
+    "sleep.quality" : {
+      "comment" : "Sleep quality",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Calidad del sueño"
+          }
+        }
+      }
+    },
+    "sleep.wakeTime" : {
+      "comment" : "Wake time",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hora de despertar"
+          }
+        }
+      }
+    },
+    "Sueño" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sleep"
+          }
+        }
+      }
+    },
+    "Sueño y medicación" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sleep & Medication"
+          }
+        }
+      }
+    },
+    "tab.charts" : {
+      "comment" : "Tab title for charts",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Gráficas"
+          }
+        }
+      }
+    },
+    "tab.journal" : {
+      "comment" : "Tab title for journal",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bitácora"
+          }
+        }
+      }
+    },
+    "tab.summary" : {
+      "comment" : "Tab title for summary",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Resumen"
+          }
+        }
+      }
+    },
+    "Tienes %lld %@." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tienes %1$lld %2$@."
+          }
+        }
+      }
+    },
+    "Todavía no has añadido nada." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nothing added yet"
+          }
+        }
+      }
+    },
+    "Todavía no hay días apuntados." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "There are not days annotated"
+          }
+        }
+      }
+    },
+    "Ve a Configuración para activar hábitos" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go to settings to activate habits"
+          }
+        }
+      }
+    },
+    "Verificación de Color Sets" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verify color sets"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
